@@ -1,0 +1,120 @@
+{
+  "brand": "Codework.ai",
+  "timestamp": "2025-11-26T01:21:46.857870",
+  "weekly_content": [
+    {
+      "week": 1,
+      "theme": "Week 1 Campaign",
+      "post_ideas": [
+        "Promotional post for Codework.ai",
+        "Industry insights for General",
+        "Customer testimonial",
+        "Product feature",
+        "Behind the scenes",
+        "Team spotlight",
+        "Motivational quote"
+      ],
+      "platform_content": {
+        "instagram": [
+          {
+            "day": 1,
+            "idea": "Promotional post for Codework.ai",
+            "visual_description": "Brand image",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 2,
+            "idea": "Industry insights for General",
+            "visual_description": "Brand image",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 3,
+            "idea": "Customer testimonial",
+            "visual_description": "Brand image",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 4,
+            "idea": "Product feature",
+            "visual_description": "Brand image",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 5,
+            "idea": "Behind the scenes",
+            "visual_description": "Brand image",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 6,
+            "idea": "Team spotlight",
+            "visual_description": "Brand image",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 7,
+            "idea": "Motivational quote",
+            "visual_description": "Brand image",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          }
+        ]
+      }
+    }
+  ],
+  "color_palette": [
+    {
+      "color": "#3498db",
+      "name": "Codework Blue",
+      "meaning": "Trust and Intelligence"
+    },
+    {
+      "color": "#f1c40f",
+      "name": "Innovation Gold",
+      "meaning": "Creativity and Progress"
+    },
+    {
+      "color": "#2ecc71",
+      "name": "Growth Green",
+      "meaning": "Harmony and Development"
+    },
+    {
+      "color": "#e74c3c",
+      "name": "Energy Red",
+      "meaning": "Passion and Dynamism"
+    },
+    {
+      "color": "#9b59b6",
+      "name": "Mindful Purple",
+      "meaning": "Wisdom and Imagination"
+    }
+  ]
+}

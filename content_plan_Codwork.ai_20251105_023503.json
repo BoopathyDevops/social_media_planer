@@ -1,0 +1,279 @@
+{
+  "brand": "Codwork.ai",
+  "industry": "General",
+  "goals": "Increase engagement",
+  "audience": "",
+  "weeks": 2,
+  "platforms": [
+    "instagram",
+    "twitter"
+  ],
+  "weekly_content": [
+    {
+      "week": 1,
+      "theme": "Week 1: Brand Awareness & Introduction",
+      "post_ideas": [
+        "Engaging content idea 1",
+        "Engaging content idea 2",
+        "Engaging content idea 3",
+        "Engaging content idea 4",
+        "Engaging content idea 5",
+        "Engaging content idea 6",
+        "Engaging content idea 7"
+      ],
+      "platform_content": {
+        "instagram": [
+          {
+            "day": 1,
+            "idea": "Engaging content idea 1",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 2,
+            "idea": "Engaging content idea 2",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 3,
+            "idea": "Engaging content idea 3",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 4,
+            "idea": "Engaging content idea 4",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 5,
+            "idea": "Engaging content idea 5",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 6,
+            "idea": "Engaging content idea 6",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 7,
+            "idea": "Engaging content idea 7",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          }
+        ],
+        "twitter": [
+          {
+            "day": 1,
+            "idea": "Engaging content idea 1",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 2,
+            "idea": "Engaging content idea 2",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 3,
+            "idea": "Engaging content idea 3",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 4,
+            "idea": "Engaging content idea 4",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 5,
+            "idea": "Engaging content idea 5",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 6,
+            "idea": "Engaging content idea 6",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 7,
+            "idea": "Engaging content idea 7",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          }
+        ]
+      }
+    },
+    {
+      "week": 2,
+      "theme": "Week 2: Product Showcase & Features",
+      "post_ideas": [
+        "Engaging content idea 1",
+        "Engaging content idea 2",
+        "Engaging content idea 3",
+        "Engaging content idea 4",
+        "Engaging content idea 5",
+        "Engaging content idea 6",
+        "Engaging content idea 7"
+      ],
+      "platform_content": {
+        "instagram": [
+          {
+            "day": 1,
+            "idea": "Engaging content idea 1",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 2,
+            "idea": "Engaging content idea 2",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 3,
+            "idea": "Engaging content idea 3",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 4,
+            "idea": "Engaging content idea 4",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 5,
+            "idea": "Engaging content idea 5",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 6,
+            "idea": "Engaging content idea 6",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          },
+          {
+            "day": 7,
+            "idea": "Engaging content idea 7",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating #content",
+            "post_type": "image"
+          }
+        ],
+        "twitter": [
+          {
+            "day": 1,
+            "idea": "Engaging content idea 1",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 2,
+            "idea": "Engaging content idea 2",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 3,
+            "idea": "Engaging content idea 3",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 4,
+            "idea": "Engaging content idea 4",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 5,
+            "idea": "Engaging content idea 5",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 6,
+            "idea": "Engaging content idea 6",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          },
+          {
+            "day": 7,
+            "idea": "Engaging content idea 7",
+            "caption": "Error generating content",
+            "hashtags": "#Error #generating",
+            "post_type": "image"
+          }
+        ]
+      }
+    }
+  ],
+  "color_palette": [
+    {
+      "color": "#0077CC",
+      "name": "Ocean Blue",
+      "description": "Reliable and stable",
+      "meaning": "Trust"
+    },
+    {
+      "color": "#FF9900",
+      "name": "Sunset Orange",
+      "description": "Energetic and enthusiastic",
+      "meaning": "Energy"
+    },
+    {
+      "color": "#66B3FF",
+      "name": "Sky Blue",
+      "description": "Imaginative and inspiring",
+      "meaning": "Creativity"
+    },
+    {
+      "color": "#80CBC4",
+      "name": "Aqua Green",
+      "description": "Balanced and refreshing",
+      "meaning": "Growth"
+    },
+    {
+      "color": "#FFD700",
+      "name": "Golden Yellow",
+      "description": "Positive and uplifting",
+      "meaning": "Optimism"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "brand": "Codework.ai",
+  "timestamp": "2025-11-26T01:10:08.264785",
+  "weekly_content": [
+    {
+      "week": 1,
+      "theme": "Week 1: Brand Awareness & Introduction",
+      "theme_description": "Focusing on brand awareness & introduction to achieve Increase engagement...",
+      "post_ideas": [
+        "Brand Awareness & Introduction - Topic 1",
+        "Brand Awareness & Introduction - Topic 2",
+        "Brand Awareness & Introduction - Topic 3",
+        "Brand Awareness & Introduction - Topic 4",
+        "Brand Awareness & Introduction - Topic 5",
+        "Brand Awareness & Introduction - Topic 6",
+        "Brand Awareness & Introduction - Topic 7"
+      ],
+      "platform_content": {
+        "instagram": [
+          {
+            "day": 1,
+            "idea": "Brand Awareness & Introduction - Topic 1",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 2,
+            "idea": "Brand Awareness & Introduction - Topic 2",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 3,
+            "idea": "Brand Awareness & Introduction - Topic 3",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 4,
+            "idea": "Brand Awareness & Introduction - Topic 4",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 5,
+            "idea": "Brand Awareness & Introduction - Topic 5",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 6,
+            "idea": "Brand Awareness & Introduction - Topic 6",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 7,
+            "idea": "Brand Awareness & Introduction - Topic 7",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          }
+        ]
+      }
+    }
+  ],
+  "color_palette": [
+    {
+      "color": "#3498db",
+      "name": "Azure Pulse",
+      "meaning": "Innovative and forward-thinking, representing the cutting-edge technology of Codework.ai"
+    },
+    {
+      "color": "#2ecc71",
+      "name": "Digital Bloom",
+      "meaning": "Growth, harmony, and balance, symbolizing the flourishing potential of AI-driven solutions"
+    },
+    {
+      "color": "#9b59b6",
+      "name": "MindSpark",
+      "meaning": "Creativity, intelligence, and inspiration, reflecting the inventive spirit of Codework.ai"
+    },
+    {
+      "color": "#1abc9c",
+      "name": "Catalyst Blue",
+      "meaning": "Trust, reliability, and expertise, embodying the professional and results-driven approach of Codework.ai"
+    },
+    {
+      "color": "#f1c40f",
+      "name": "Illuminator",
+      "meaning": "Warmth, optimism, and enlightenment, representing the illuminating insights and understanding provided by Codework.ai"
+    }
+  ]
+}

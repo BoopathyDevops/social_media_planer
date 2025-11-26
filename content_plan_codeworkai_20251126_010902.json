@@ -1,0 +1,121 @@
+{
+  "brand": "Codework.ai",
+  "timestamp": "2025-11-26T01:08:00.774582",
+  "weekly_content": [
+    {
+      "week": 1,
+      "theme": "Week 1: Brand Awareness & Introduction",
+      "theme_description": "Focusing on brand awareness & introduction to achieve Increase engagement...",
+      "post_ideas": [
+        "Introduction to Codework.ai: Share a brand story video",
+        "Meet the Team: Highlight a key team member and their role",
+        "What is Codework.ai?: Create an explainer post about the brand's mission",
+        "Behind the Scenes: Share a photo or video of the office or workspace",
+        "Codework.ai's History: Share a timeline of major milestones and achievements",
+        "Core Values: Create a graphic illustrating the brand's core values and principles",
+        "Welcome to the Community: Host a Q&A session on social media to engage with new followers"
+      ],
+      "platform_content": {
+        "instagram": [
+          {
+            "day": 1,
+            "idea": "Introduction to Codework.ai: Share a brand story video",
+            "visual_description": "A 60-second video showcasing the Codework.ai brand story, with animated text and graphics highlighting the platform's features and benefits.",
+            "full_post_text": "Discover the future of coding with Codework.ai!\n\nWe're excited to introduce you to Codework.ai, the revolutionary platform that's changing the way we learn and work with code. Watch our brand story video to learn more about our mission and vision!\n\n👇 Follow us for updates and insights on AI-powered coding!\n\n#Codeworkai #AIpoweredCoding #FutureOfCoding #LearnToCode #CodeWithAI",
+            "hook": "Discover the future of coding with Codework.ai!",
+            "caption": "We're excited to introduce you to Codework.ai, the revolutionary platform that's changing the way we learn and work with code. Watch our brand story video to learn more about our mission and vision!",
+            "hashtags": "#Codeworkai #AIpoweredCoding #FutureOfCoding #LearnToCode #CodeWithAI",
+            "post_type": "Video"
+          },
+          {
+            "day": 2,
+            "idea": "Meet the Team: Highlight a key team member and their role",
+            "visual_description": "A photo of Jane Smith, Codework.ai's Chief Technical Officer, with a friendly smile and a background of coding screens and AI-related visuals",
+            "full_post_text": "Meet the mastermind behind Codework.ai's innovative approach to AI solutions!\n\nWe're excited to introduce you to our Chief Technical Officer, Jane Smith, who's leading the charge in developing cutting-edge AI technologies that are transforming industries worldwide. With over 10 years of experience in AI research and development, Jane's expertise has been instrumental in shaping Codework.ai's vision and strategy.\n\n👇 Want to learn more about our team and mission? Click the link in our bio to explore our website and stay updated on our latest projects!\n\n#Codeworkai #AI #Innovation #MeetTheTeam #WomenInTech #TechLeaders",
+            "hook": "Meet the mastermind behind Codework.ai's innovative approach to AI solutions!",
+            "caption": "We're excited to introduce you to our Chief Technical Officer, Jane Smith, who's leading the charge in developing cutting-edge AI technologies that are transforming industries worldwide. With over 10 years of experience in AI research and development, Jane's expertise has been instrumental in shaping Codework.ai's vision and strategy.",
+            "hashtags": "#Codeworkai #AI #Innovation #MeetTheTeam #WomenInTech #TechLeaders",
+            "post_type": "Image"
+          },
+          {
+            "day": 3,
+            "idea": "What is Codework.ai?: Create an explainer post about the brand's mission",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 4,
+            "idea": "Behind the Scenes: Share a photo or video of the office or workspace",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 5,
+            "idea": "Codework.ai's History: Share a timeline of major milestones and achievements",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 6,
+            "idea": "Core Values: Create a graphic illustrating the brand's core values and principles",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          },
+          {
+            "day": 7,
+            "idea": "Welcome to the Community: Host a Q&A session on social media to engage with new followers",
+            "visual_description": "Brand visual",
+            "full_post_text": "\n\n\n\n👇 \n\n",
+            "hook": "",
+            "caption": "",
+            "hashtags": "",
+            "post_type": "Post"
+          }
+        ]
+      }
+    }
+  ],
+  "color_palette": [
+    {
+      "color": "#3498db",
+      "name": "Codework Blue",
+      "meaning": "Trust and reliability in AI solutions"
+    },
+    {
+      "color": "#f1c40f",
+      "name": "Innovation Orange",
+      "meaning": "Creativity and forward-thinking approach"
+    },
+    {
+      "color": "#2ecc71",
+      "name": "Growth Green",
+      "meaning": "Harmony and balance in AI-driven growth"
+    },
+    {
+      "color": "#9b59b6",
+      "name": "Tech Purple",
+      "meaning": "Sophistication and expertise in AI technology"
+    },
+    {
+      "color": "#1abc9c",
+      "name": "Mindful Teal",
+      "meaning": "Calmness and clarity in AI decision-making processes"
+    }
+  ]
+}

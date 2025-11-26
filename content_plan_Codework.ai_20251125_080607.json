@@ -1,0 +1,127 @@
+{
+  "brand": "Codework.ai",
+  "timestamp": "2025-11-25T08:05:58.222908",
+  "weekly_content": [
+    {
+      "week": 1,
+      "theme": "Week 1 Strategy",
+      "post_ideas": [
+        "Understanding AI: A Beginner's Guide to Machine Learning Educational Post",
+        "A Day in the Life of a Codework.ai Developer: Behind-the-Scenes Look",
+        "Introducing Codework.ai's Latest Product Update: Enhanced Automation Features",
+        "Breaking News: Recent Advancements in AI Technology and Their Impact on Industry",
+        "AI Trivia: Test Your Knowledge and Win Exclusive Discounts Interactive Quiz",
+        "Believe in the Power of Innovation: Motivational Quote and Story of Codework.ai's Founders",
+        "Real People, Real Results: Testimonial from a Satisfied Client Who Achieved Success with Codework.ai"
+      ],
+      "platform_content": {
+        "linkedin": [
+          {
+            "day": 1,
+            "idea": "Understanding AI: A Beginner's Guide to Machine Learning Educational Post",
+            "visual_description": "Standard logo image",
+            "full_post_text": "Check this out!\n\nContent generation failed. Please try again.\n\n👇 Link in bio\n\n#brand",
+            "hook": "Check this out!",
+            "body": "Content generation failed. Please try again.",
+            "cta": "Link in bio",
+            "hashtags": "#brand",
+            "post_type": "Image"
+          },
+          {
+            "day": 2,
+            "idea": "A Day in the Life of a Codework.ai Developer: Behind-the-Scenes Look",
+            "visual_description": "Standard logo image",
+            "full_post_text": "Check this out!\n\nContent generation failed. Please try again.\n\n👇 Link in bio\n\n#brand",
+            "hook": "Check this out!",
+            "body": "Content generation failed. Please try again.",
+            "cta": "Link in bio",
+            "hashtags": "#brand",
+            "post_type": "Image"
+          },
+          {
+            "day": 3,
+            "idea": "Introducing Codework.ai's Latest Product Update: Enhanced Automation Features",
+            "visual_description": "Standard logo image",
+            "full_post_text": "Check this out!\n\nContent generation failed. Please try again.\n\n👇 Link in bio\n\n#brand",
+            "hook": "Check this out!",
+            "body": "Content generation failed. Please try again.",
+            "cta": "Link in bio",
+            "hashtags": "#brand",
+            "post_type": "Image"
+          },
+          {
+            "day": 4,
+            "idea": "Breaking News: Recent Advancements in AI Technology and Their Impact on Industry",
+            "visual_description": "Standard logo image",
+            "full_post_text": "Check this out!\n\nContent generation failed. Please try again.\n\n👇 Link in bio\n\n#brand",
+            "hook": "Check this out!",
+            "body": "Content generation failed. Please try again.",
+            "cta": "Link in bio",
+            "hashtags": "#brand",
+            "post_type": "Image"
+          },
+          {
+            "day": 5,
+            "idea": "AI Trivia: Test Your Knowledge and Win Exclusive Discounts Interactive Quiz",
+            "visual_description": "Standard logo image",
+            "full_post_text": "Check this out!\n\nContent generation failed. Please try again.\n\n👇 Link in bio\n\n#brand",
+            "hook": "Check this out!",
+            "body": "Content generation failed. Please try again.",
+            "cta": "Link in bio",
+            "hashtags": "#brand",
+            "post_type": "Image"
+          },
+          {
+            "day": 6,
+            "idea": "Believe in the Power of Innovation: Motivational Quote and Story of Codework.ai's Founders",
+            "visual_description": "Standard logo image",
+            "full_post_text": "Check this out!\n\nContent generation failed. Please try again.\n\n👇 Link in bio\n\n#brand",
+            "hook": "Check this out!",
+            "body": "Content generation failed. Please try again.",
+            "cta": "Link in bio",
+            "hashtags": "#brand",
+            "post_type": "Image"
+          },
+          {
+            "day": 7,
+            "idea": "Real People, Real Results: Testimonial from a Satisfied Client Who Achieved Success with Codework.ai",
+            "visual_description": "A screenshot of a testimonial quote on a clean background with the Codework.ai logo, accompanied by a subtle graph showing an upward trend to represent business growth",
+            "full_post_text": "Transforming businesses with AI-powered solutions!\n\nWe're thrilled to share a success story from one of our satisfied clients who achieved remarkable results with Codework.ai.\n\nOur client, a leading marketing firm, was struggling to automate their workflows and improve efficiency. After implementing our AI solutions, they saw a significant reduction in manual errors and a boost in productivity.\n\nHear from them: 'Codework.ai has been a game-changer for our business. Their innovative approach to AI has streamlined our operations and enabled us to focus on high-value tasks.'\n\n👇 Discover how Codework.ai can help you achieve your business goals - get in touch with us to learn more!\n\n#AIforBusiness #Automation #Innovation #Codeworkai #SuccessStories",
+            "hook": "Transforming businesses with AI-powered solutions!",
+            "body": "We're thrilled to share a success story from one of our satisfied clients who achieved remarkable results with Codework.ai.\n\nOur client, a leading marketing firm, was struggling to automate their workflows and improve efficiency. After implementing our AI solutions, they saw a significant reduction in manual errors and a boost in productivity.\n\nHear from them: 'Codework.ai has been a game-changer for our business. Their innovative approach to AI has streamlined our operations and enabled us to focus on high-value tasks.'",
+            "cta": "Discover how Codework.ai can help you achieve your business goals - get in touch with us to learn more!",
+            "hashtags": "#AIforBusiness #Automation #Innovation #Codeworkai #SuccessStories",
+            "post_type": "Image"
+          }
+        ]
+      }
+    }
+  ],
+  "color_palette": [
+    {
+      "color": "#3498db",
+      "name": "Digital Blue",
+      "meaning": "Trust and reliability in technology"
+    },
+    {
+      "color": "#2ecc71",
+      "name": "Innovate Green",
+      "meaning": "Growth and innovation in tech"
+    },
+    {
+      "color": "#9b59b6",
+      "name": "Code Purple",
+      "meaning": "Creativity and problem-solving in coding"
+    },
+    {
+      "color": "#f1c40f",
+      "name": "Inspire Yellow",
+      "meaning": "Optimism and inspiration for new ideas"
+    },
+    {
+      "color": "#2c3e50",
+      "name": "Tech Grey",
+      "meaning": "Neutrality and balance in technology"
+    }
+  ]
+}
